@@ -16,6 +16,7 @@ namespace _43_tryCatch
 
             try
             {
+                //hello world
                 int x = 5;
                 int y = x / 0;
                 Console.WriteLine($"Result: {y}");
