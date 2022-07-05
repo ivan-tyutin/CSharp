@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+//hello
 namespace _18_Partioal
 {
      partial class Person
